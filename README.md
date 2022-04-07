@@ -1,4 +1,4 @@
-# NIGOV-filter-list
+# NIGOV filter list
 **Version 1.0.0** 
 
 > This component is currently experimental because more research is needed to validate it.
